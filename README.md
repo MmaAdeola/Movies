@@ -6,6 +6,12 @@ This project was carried out as the first project in the ALX/Udacity data analyt
 
 ### Questions Answered
 Interests in the dataset include:
+1. What are the characteristics of highly rated movies?
+2. What kinds of properties are associated with movies with high revenues?
+3. Which three movies have the highest profit?
+4. What are the top ten most rated movies?
+5. Is there a relationship between popularity,revenue and rating?
+6. What genre has the highest average popularity?
 
-### Conclusion
+### Findings
 
